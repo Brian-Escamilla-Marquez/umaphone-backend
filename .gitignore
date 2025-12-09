@@ -37,7 +37,6 @@ target/
 logs/
 *.log.*
 
-*.pem
 *.key
 *.cer
 *.crt
@@ -56,4 +55,3 @@ logs/
 application-local.properties
 application-secret.properties
 
-ca.pem
