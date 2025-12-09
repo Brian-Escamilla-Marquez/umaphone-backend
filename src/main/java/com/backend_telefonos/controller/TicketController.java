@@ -23,7 +23,6 @@ import com.backend_telefonos.services.TicketService;
 
 @RestController
 @RequestMapping("api/Ticket")
-@CrossOrigin(origins = "*")
 public class TicketController {
 
     @Autowired

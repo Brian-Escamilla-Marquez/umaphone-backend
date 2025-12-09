@@ -18,7 +18,6 @@ import com.backend_telefonos.services.RolService;
 
 @RestController
 @RequestMapping("api/Rol")
-@CrossOrigin("*")
 public class RolController {
 
 	@Autowired

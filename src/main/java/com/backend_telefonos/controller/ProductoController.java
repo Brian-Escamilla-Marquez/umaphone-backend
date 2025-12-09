@@ -28,7 +28,6 @@ import com.backend_telefonos.services.ProductoServices;
 
 @RestController
 @RequestMapping("api/Producto")
-@CrossOrigin(origins = "*")
 public class ProductoController {
 
     @Autowired

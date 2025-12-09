@@ -18,7 +18,6 @@ import com.backend_telefonos.services.MetodoPagoService;
 
 @RestController
 @RequestMapping("api/MetodoPago")
-@CrossOrigin("*")
 public class MetodoPagoController {
 
 	@Autowired

@@ -24,7 +24,6 @@ import com.backend_telefonos.services.UsuarioService;
 
 @RestController
 @RequestMapping("api/Usuario")
-@CrossOrigin(origins = "*")
 public class UsuarioController {
     
     @Autowired
